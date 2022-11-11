@@ -1,0 +1,1 @@
+print("This is how you push with python, github and replit")
